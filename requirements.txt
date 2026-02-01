@@ -3,5 +3,10 @@ mediapipe
 pyautogui
 numpy
 pynput
-pycaw
-screen-brightness-control
+pyaudio
+vosk
+scipy
+pyinstaller
+auto-py-to-exe
+sv-ttk
+uiautomation
