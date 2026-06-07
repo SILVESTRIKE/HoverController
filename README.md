@@ -1,4 +1,4 @@
-# 🖐️ PRESENTATION GOD (AirController + Voice)
+# 🖐️ PRESENTATION GOD (HoverController + Voice)
 
 **Công cụ hỗ trợ thuyết trình "3 KHÔNG": Không chạm - Không độ trễ - Không mạng.**
 
