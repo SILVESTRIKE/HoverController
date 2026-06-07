@@ -1,0 +1,6 @@
+venv/
+**vosk**/
+**cache**/
+**build**
+dist/
+**repomix**
